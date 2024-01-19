@@ -16,17 +16,17 @@ const benefitOne = {
   image: benefitOneImg,
   bullets: [
     {
-      title: "Understand your customers",
-      desc: "Then explain the first point breifly in one or two lines.",
+      title: "Geo-Targeted Advertising",
+      desc: "businesses to target specific geographic areas with their advertisements, ensuring maximum relevance to the local audience.",
       icon: <FaceSmileIcon />,
     },
     {
-      title: "Improve acquisition",
-      desc: "Here you can add the next benefit point.",
+      title: "Real-Time Content Updates ",
+      desc: "Advertisers can update their content in real-time, allowing for immediate changes to promotions, discounts, or events. This flexibility ensures that campaigns stay relevant and timely.",
       icon: <ChartBarSquareIcon />,
     },
     {
-      title: "Drive customer retention",
+      title: "High-Resolution LED Displays",
       desc: "This will be your last bullet point in this section.",
       icon: <CursorArrowRaysIcon />,
     },
